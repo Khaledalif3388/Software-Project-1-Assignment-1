@@ -2,10 +2,9 @@
 
 I learned
 
-• Repisitory initialization
-• checking git status
-• Adding files
-• Commit
-• Commit message
+• Repository Inialization
+• Adding files to git
+• Checking git status
+• Commit any message
 • Creating remote repository
-• Uploading local files to repisotory
+• Pushing local files to repository
